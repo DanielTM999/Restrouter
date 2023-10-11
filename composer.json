@@ -1,0 +1,19 @@
+{
+    "name": "danieltm/restrouter",
+    "description": "Criação rapida de rotas",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "danieltm\\restrouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danielTM999",
+            "email": "danielmelo101203@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
