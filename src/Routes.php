@@ -1,6 +1,6 @@
 <?php
 
-    namespace Rest_Router;
+    namespace danieltm\restrouter;
 
     class Router{
         private $routes = [];
